@@ -4,7 +4,7 @@
 
 Full-Stack Developer &nbsp;·&nbsp; Nairobi, Kenya
 
-Self-taught. Building toward products that matter for Africa and the world one step at a time.
+Self-taught. Building toward products that matter.
 
 </div>
 
@@ -41,17 +41,6 @@ My approach to engineering: understand *why* before writing *how*. Read the erro
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
-<br />
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RowlandChazima&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333&icon_color=555&bg_color=ffffff" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RowlandChazima&layout=compact&hide_border=true&theme=default&text_color=333&bg_color=ffffff" width="42%" />
 
 </div>
 
