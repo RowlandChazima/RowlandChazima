@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Rowland Chazima Banner"/>
+  <img src="Banner.png" width="100%" alt="Rowland Chazima Banner"/>
 </p>
