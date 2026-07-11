@@ -18,7 +18,7 @@ My approach to engineering is simple: understand *why* before writing *how*. Rea
 
 **Stack**
 
-TypeScript · JavaScript · Python · Next.js · React · FastAPI · Tailwind CSS · Supabase · Git
+TypeScript · JavaScript · Python · Next.js · React · FastAPI · Tailwind CSS · Pytorch · Langchain
 
 <br />
 
